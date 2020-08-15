@@ -2,7 +2,7 @@
 
 I'm an IT professional, living aboard my sailboat in Salé, Morocco and at the age of 38.
 
-_(September 2018 - Present)_ I work for a small software company as <b>Technical Account Manager</b>. This role requires:
+_(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. This role requires:
  * <b>IT support / sysadmin / devops skills</b>
  * <b>Database knowledge</b>
  * <b>Basic programming/testing competency</b>
