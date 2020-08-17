@@ -12,12 +12,12 @@
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" /> Maven
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java/JSP
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
-<img alt="React" height="24px" src="http://cdn.onlinewebfonts.com/svg/download_433312.svg" /> Eclipse
+Eclipse
 Selenium
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
 Crystal Reports
-<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> DokuWiki
+DokuWiki
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" /> JIRA
 API gateway
