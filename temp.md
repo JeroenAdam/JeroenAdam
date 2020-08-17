@@ -9,7 +9,7 @@
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" /> Apache
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" /> Git/SVN
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tomcat.svg" /> Tomcat
-<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/maven.svg" /> Maven
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" /> Maven
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java/JSP
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
 Eclipse
@@ -18,9 +18,10 @@ Selenium
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
 Crystal Reports
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> DokuWiki
-<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" />JIRA
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" /> JIRA
 API gateway
-<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/keycloak.svg" /> Keycloak
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openid.svg" /> Keycloak
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
 RocketChat
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
