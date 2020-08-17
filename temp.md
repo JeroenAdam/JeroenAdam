@@ -6,7 +6,7 @@
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" /> Docker
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/powershell.svg" /> Bash/Powershell
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" /> Linux
-<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" /> Apache
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" /> Apache
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" /> Git/SVN
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tomcat.svg" /> Tomcat
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/maven.svg" /> Maven
