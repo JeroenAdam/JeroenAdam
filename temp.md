@@ -12,7 +12,7 @@
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" /> Maven
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java/JSP
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
-Eclipse
+<img alt="React" height="24px" src="http://cdn.onlinewebfonts.com/svg/download_433312.svg" /> Eclipse
 Selenium
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
@@ -23,6 +23,6 @@ Crystal Reports
 API gateway
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openid.svg" /> Keycloak
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
-RocketChat
+<img alt="React" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Font_Awesome_5_brands_rocketchat.svg" /> RocketChat
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
 </details>
