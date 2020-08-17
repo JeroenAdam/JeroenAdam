@@ -12,7 +12,7 @@
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" /> Maven
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java/JSP
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
-Eclipse
+<img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" /> Eclipse
 Selenium
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
