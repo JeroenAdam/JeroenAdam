@@ -23,7 +23,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Java/JSP" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java/JSP
 &nbsp; <img alt="Spring MVC" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
 &nbsp; <img alt="Eclipse" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" /> Eclipse
-&nbsp; <img alt="Selenium" height="24px" src="https://github.com/JeroenAdam/JeroenAdam/tree/master/svg/selenium.svg" /> Selenium
+&nbsp; <img alt="Selenium" height="24px" src="https://raw.githubusercontent.com/JeroenAdam/JeroenAdam/a13e6184ce287a982062f2bc4a09151ccc559fe7/svg/selenium.svg" /> Selenium
 &nbsp; <img alt="Postman" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 &nbsp; <img alt="Jenkins" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
 &nbsp; <img alt="Crystal Reports" height="24px" src="https://www.svgrepo.com/show/104761/invoice.svg" /> Crystal Reports
