@@ -36,6 +36,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Node-RED" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-red.svg" /> Node-RED
 &nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
 &nbsp; <img alt="RocketChat" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Font_Awesome_5_brands_rocketchat.svg" /> RocketChat
+&nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlechrome.svg" /> Chrome DevTools
 &nbsp; <img alt="Cloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
 </details>
 
