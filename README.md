@@ -16,7 +16,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 <img alt="Docker" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" /> Docker
 <img alt="Bash/Powershell" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/powershell.svg" /> Bash/Powershell
 <img alt="Linux" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" /> Linux
-<img alt="Apache" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" /> Apache
+<img alt="Apache" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" />Apache
 <img alt="Git/SVN" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" /> Git/SVN
 <img alt="Tomcat" height="24px" src="https://www.svgrepo.com/show/43093/server.svg" /> Tomcat
 <img alt="Maven" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" /> Maven
