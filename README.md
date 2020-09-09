@@ -18,6 +18,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Bash/Powershell" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/powershell.svg" /> Bash/Powershell
 &nbsp; <img alt="Linux" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" /> Linux
 &nbsp; <img alt="Apache" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" />Apache
+&nbsp; <img alt="Cloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
 &nbsp; <img alt="Git/SVN" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" /> Git/SVN
 &nbsp; <img alt="Tomcat" height="24px" src="https://www.svgrepo.com/show/43093/server.svg" /> Tomcat
 &nbsp; <img alt="Maven" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" />Maven
@@ -25,6 +26,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Spring MVC" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring MVC
 &nbsp; <img alt="Eclipse" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" /> Eclipse
 &nbsp; <img alt="Visual Studio Code" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" /> Visual Studio Code
+&nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlechrome.svg" /> Chrome DevTools
 &nbsp; <img alt="Selenium" height="24px" src="https://raw.githubusercontent.com/JeroenAdam/JeroenAdam/a13e6184ce287a982062f2bc4a09151ccc559fe7/svg/selenium.svg" /> Selenium
 &nbsp; <img alt="Postman" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 &nbsp; <img alt="Jenkins" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
@@ -37,8 +39,6 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Node-RED" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-red.svg" /> Node-RED
 &nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
 &nbsp; <img alt="RocketChat" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Font_Awesome_5_brands_rocketchat.svg" /> RocketChat
-&nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/googlechrome.svg" /> Chrome DevTools
-&nbsp; <img alt="Cloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
 </details>
 
 In my spare time, I work on:
