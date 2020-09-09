@@ -18,7 +18,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Bash/Powershell" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/powershell.svg" /> Bash/Powershell
 &nbsp; <img alt="Linux" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" /> Linux
 &nbsp; <img alt="Apache" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apache.svg" />Apache
-&nbsp; <img alt="Cloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> cloud mgmt. dashboards
+&nbsp; <img alt="Cloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/icloud.svg" /> Cloud mgmt. dashboards
 &nbsp; <img alt="Git/SVN" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" /> Git/SVN
 &nbsp; <img alt="Tomcat" height="24px" src="https://www.svgrepo.com/show/43093/server.svg" /> Tomcat
 &nbsp; <img alt="Maven" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachemaven.svg" />Maven
@@ -31,14 +31,14 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Postman" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" /> Postman
 &nbsp; <img alt="Jenkins" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkins.svg" /> Jenkins
 &nbsp; <img alt="Crystal Reports" height="24px" src="https://www.svgrepo.com/show/104761/invoice.svg" /> Crystal Reports
-&nbsp; <img alt="DokuWiki" height="24px" src="https://www.svgrepo.com/show/245633/wikipedia.svg" />DokuWiki
-&nbsp; <img alt="Redoc" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
 &nbsp; <img alt="JIRA" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jira.svg" /> JIRA
 &nbsp; <img alt="API gateway" height="24px" src="https://www.svgrepo.com/show/111897/api.svg" /> API gateway
 &nbsp; <img alt="Keycloak" height="24px" src="https://www.svgrepo.com/show/27900/user-authentication.svg" /> Keycloak
 &nbsp; <img alt="Node-RED" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-red.svg" /> Node-RED
 &nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
 &nbsp; <img alt="RocketChat" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Font_Awesome_5_brands_rocketchat.svg" /> RocketChat
+&nbsp; <img alt="DokuWiki" height="24px" src="https://www.svgrepo.com/show/245633/wikipedia.svg" />DokuWiki
+&nbsp; <img alt="Redoc" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
 </details>
 
 In my spare time, I work on:
