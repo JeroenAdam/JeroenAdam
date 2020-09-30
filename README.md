@@ -42,7 +42,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 </details>
 
 In my spare time, I work on:
- * <b>Software development</b>: <img alt="Java" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java / <img alt="Spring" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring / <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" /> React, I'm developing a few [Java web apps](http://www.adambahri.com/english/webdev-projects) and I [published](https://github.com/JeroenAdam/DIY-accounting-app) my 15y.-old bookkeeping app (PHP).
+ * <b>Software development</b>: <img alt="Java" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java / <img alt="Spring" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring / <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" /> React, I'm developing a few [Java web apps](http://www.adambahri.com/projects) and I [published](https://github.com/JeroenAdam/DIY-accounting-app) my 15y.-old bookkeeping app (PHP).
  * <b>Infrastructure</b> using Azure (Stack) / AWS / Hyper-V Server / Linux / Docker (Registry) / Apache / Networking
 <br />
 
