@@ -4,7 +4,7 @@ I'm an IT generalist, living aboard my sailboat in Salé, Morocco and at the age
 <br />
 
 _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. This role requires:
- * <b>IT application / infrastructure support</b>
+ * <b>IT application / infrastructure support experience</b>
  * <b>Sysadmin / DevOps skills</b>
  * <b>Database knowledge</b>
  * <b>Basic programming/testing competency</b>
