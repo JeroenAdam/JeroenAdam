@@ -41,7 +41,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Redoc" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
 </details>
 
-In my spare time, I work on:
+Side projects::
  * <b>Software development</b>: <img alt="Java" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java / <img alt="Spring" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring / <img alt="React" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" /> React, I'm developing a few [Java web apps](http://www.adambahri.com/projects) while applying [DevOps](https://github.com/JeroenAdam/ta3alama#ta3alama) principles and I [published](https://github.com/JeroenAdam/DIY-bookkeeping-app#my-diy-bookkeeping-app) my 15y.-old bookkeeping app (PHP).
  * <b>Infrastructure</b> using Azure (Stack) / AWS / Hyper-V Server / Linux / Docker (Registry) / Apache / Networking
 <br />
