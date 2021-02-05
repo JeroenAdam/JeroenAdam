@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an IT generalist, living aboard my sailboat in Salé, Morocco and at the age of 38.<br />
+I'm an IT generalist, living aboard my sailboat in Salé, Morocco and at the age of 39.<br />
 <br />
 
 _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. This role requires:
