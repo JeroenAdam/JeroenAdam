@@ -6,7 +6,7 @@ I'm an IT generalist, living aboard my sailboat in Salé, Morocco and at the age
 _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. This role requires:
  * <b>IT application / infrastructure support expertise</b>
  * <b>Sysadmin / DevOps skills</b>
- * <b>Database knowledge</b>
+ * <b>Database administration</b>
  * <b>Basic programming/testing competency</b>
  * <b>NL / FR / EN language</b>
 <details>
