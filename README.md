@@ -67,6 +67,6 @@ After having been self-employed as an IT-shop owner, teaching children IT-skills
 [<img align="left" alt="LinkedIn | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Skype | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 
-[website]: http://www.adambahri.com
+[website]: https://www.adambahri.com
 [linkedin]: https://linkedin.com/in/jeroen-devenijn
 [skype]: https://join.skype.com/invite/aaURqjoe5oK0
