@@ -3,7 +3,7 @@
 I'm an IT generalist, living aboard my sailboat in Salé, Morocco and at the age of 39.<br />
 <br />
 
-_(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. This role requires:
+_(September 2018 - Present)_ <b>Technical Account Manager</b> at a small software company. My current position requires:
  * <b>IT application / infrastructure support expertise</b>
  * <b>Sysadmin / DevOps skills</b>
  * <b>Database administration</b>
