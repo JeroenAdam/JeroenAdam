@@ -38,7 +38,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 &nbsp; <img alt="Nextcloud" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nextcloud.svg" /> Nextcloud
 &nbsp; <img alt="RocketChat" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Font_Awesome_5_brands_rocketchat.svg" /> RocketChat
 &nbsp; <img alt="DokuWiki" height="24px" src="https://www.svgrepo.com/show/245633/wikipedia.svg" />DokuWiki
-&nbsp; <img alt="Redoc" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Redoc
+&nbsp; <img alt="Swagger" height="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/openapiinitiative.svg" /> Swagger
 </details>
 
 Side projects::
