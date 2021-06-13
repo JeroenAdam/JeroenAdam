@@ -57,7 +57,7 @@ _(January 2002 - April 2013)_ <b>IT shop owner, IT teacher</b> (side job)
 
 <details>
   <summary>:wrench: My activities (click to unfold)</summary>
-After having been self-employed as an IT-shop owner, teaching children IT-skills and acquiring a sailboat, I made the decision to start a new life outside the European Union.
+After having been an IT-shop owner, teaching children IT-skills and acquiring a sailboat, I made the decision to start a new life outside the European Union.
 </details>
 <br />
 
