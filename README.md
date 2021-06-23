@@ -43,7 +43,7 @@ _(September 2018 - Present)_ <b>Technical Account Manager</b> at a small softwar
 
 Side projects::
  * <b>Software development</b>: <img alt="Java" height="20px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" /> Java / <img alt="Spring" height="20px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg" /> Spring / <img alt="React" height="20px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" /> React, I'm developing a few [Java web apps](http://www.adambahri.com/projects) while applying [DevOps](https://github.com/JeroenAdam/ta3alama#ta3alama) principles and I [published](https://github.com/JeroenAdam/DIY-bookkeeping-app#my-diy-bookkeeping-app) my 15y.-old bookkeeping app (PHP).
- * <b>Infrastructure</b> using Azure (Stack) / AWS / Hyper-V Server / Linux / Docker (Registry) / Apache / Networking
+ * <b>Infrastructure</b> using Azure / AWS / Hyper-V / Linux / Docker (Registry) / Apache / Networking / Kubernetes
 <br />
 
 _(May 2013 - August 2018)_ <b>Service Desk Technical Lead</b> and <b>Service Desk Coordinator</b> for a large enterprise (5 000 managed workstations). I created a self-help tool, a [Skill Matrix](https://github.com/JeroenAdam/skillmatrix/blob/master/SD-skill-matrix), for Service Desk agents.
