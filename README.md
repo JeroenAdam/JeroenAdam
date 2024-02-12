@@ -51,7 +51,7 @@ _(September 2018 - Present)_ <b>IT Generalist</b> at a small software company. M
 </details>
 
 Side projects::
- * <b>Software development</b>: I'm developing a [web app](https://github.com/jeroenadam/content-sharing-platform) allowing educators to search, submit, download or share educational resources and I [published](https://github.com/JeroenAdam/DIY-bookkeeping-app#my-diy-bookkeeping-app) my 20y.-old bookkeeping app (PHP).
+ * <b>Software development</b>: I'm developing a [web app](https://github.com/jeroenadam/content-sharing-platform) allowing educators to search, submit, download or share educational resources using Java, Spring, Javascript, React and I [published](https://github.com/JeroenAdam/DIY-bookkeeping-app#my-diy-bookkeeping-app) my 20y.-old bookkeeping app (PHP).
  * <b>Infrastructure</b> using Azure / AWS / Hyper-V / Linux / Docker / Apache / Networking
 <br />
 
