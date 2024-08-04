@@ -71,3 +71,4 @@ After having been an IT-shop owner, teaching children IT-skills and acquiring a 
 ### Connect with me:
 
 [website](https://www.adambahri.com) - [linkedin](https://linkedin.com/in/jeroen-devenijn)
+![](https://komarev.com/ghpvc/?username=JeroenAdam)
