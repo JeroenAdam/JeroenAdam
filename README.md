@@ -1,6 +1,5 @@
 ### About me
 
-I'm an IT generalist, self-taught software developer, living aboard my sailboat in Salé, Morocco and at the age of 42.<br />
 +10y. employed in enterprise IT, prior to that self-employed (consumer IT) and part-time teaching IT.<br />
 
 My skills:<br />
