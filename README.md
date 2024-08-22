@@ -30,7 +30,7 @@ My current position _(Sep 2018 - Today)_:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java, Spring Boot, IntelliJ, VS Code, Chrome DevTools, Selenium, Postman, Jenkins, Keycloak,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elasticsearch, Node-RED, JIRA, Crystal Reports, RocketChat, Swagger<br />
 </details>
-<details>
+<details open>
   <summary>&nbsp;Side projects</summary>
   <br />
 &nbsp;&nbsp;&nbsp; • <b>Software development</b>: I'm developing a web app allowing <b>educators</b> to search, submit, download or share <b>educational resources</b><br />
