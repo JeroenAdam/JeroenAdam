@@ -32,7 +32,7 @@ My current position _(Sep 2018 - Today)_:
 <details open>
   <summary>&nbsp;Side projects</summary>
   <br />
-&nbsp;&nbsp;&nbsp; • <b>Software development</b>:  Java /  Spring /  React, I'm developing web applications for knowledge workers, for educators, for entrepreneurs.<br />
+&nbsp;&nbsp;&nbsp; • <b>Software development</b>:  Java /  Spring /  React, I'm developing web apps for knowledge workers, for educators, for entrepreneurs.<br />
 &nbsp;&nbsp;&nbsp; • <b>Infrastructure</b> using Azure / AWS / Hyper-V / Linux / Docker / Apache / Networking
 </details>
 
