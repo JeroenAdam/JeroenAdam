@@ -32,8 +32,7 @@ My current position _(Sep 2018 - Today)_:
 <details open>
   <summary>&nbsp;Side projects</summary>
   <br />
-&nbsp;&nbsp;&nbsp; • <b>Software development</b>: I'm developing a web app allowing <b>educators</b> to search, submit, download or share <b>educational resources</b><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and I built my own <b>Personal Knowledge Mgt. app</b>. Both are built with Java, Spring, Javascript, React.<br />
+&nbsp;&nbsp;&nbsp; • <b>Software development</b>:  Java /  Spring /  React, I'm developing web applications for knowledge workers, for educators, for entrepreneurs.<br />
 &nbsp;&nbsp;&nbsp; • <b>Infrastructure</b> using Azure / AWS / Hyper-V / Linux / Docker / Apache / Networking
 </details>
 
