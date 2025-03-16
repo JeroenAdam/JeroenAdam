@@ -19,7 +19,7 @@ My current position _(Sep 2018 - Today)_:
 &nbsp;&nbsp;&nbsp; • DevOps: automating the software delivery process, managing infra, ChatOps<br />
 &nbsp;&nbsp;&nbsp; • Databases: handling MySQL daily, building reporting queries<br />
 &nbsp;&nbsp;&nbsp; • Testing: test automation, manual testing<br />
-&nbsp;&nbsp;&nbsp; • Communication: collaboration with dev team and product owner<br />
+&nbsp;&nbsp;&nbsp; • Communication: with customers, dev team and product owner<br />
 </details>
 
 <details>
