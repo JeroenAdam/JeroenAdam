@@ -1,21 +1,24 @@
 ### About me
 
-+10y. employed in enterprise IT, prior to that self-employed (consumer IT) and part-time teaching IT.<br />
+Since 12y. employed in enterprise IT, former shop owner (consumer IT). I develop web applications with a focus on clean design, usability and quality.<br />
 
 My skills:<br />
 • WEB DEVELOPMENT
-• IT / APPLICATION SUPPORT
-• DEVOPS / CLOUD
+• OFFICE AUTOMATION
+• DEVOPS
+• IT SUPPORT
 • DATABASES
 • TESTING
-• LANGUAGES (NL/FR/EN) / COMMUNICATION
+• COMMUNICATION
+• LANGUAGES (nl/fr/en)
+• KNOWLEDGE MGT
 
 My current position _(Sep 2018 - Today)_: 
 <b>IT Generalist</b> at a small software company.
 <details>
   <summary>&nbsp;My current activities</summary>
   <br />
-&nbsp;&nbsp;&nbsp; • Application support: handling a business app (+200 user base)<br />
+&nbsp;&nbsp;&nbsp; • Application support: handling a business-critical app (+200 users)<br />
 &nbsp;&nbsp;&nbsp; • DevOps: automating the software delivery process, managing infra, ChatOps<br />
 &nbsp;&nbsp;&nbsp; • Databases: handling MySQL daily, building reporting queries<br />
 &nbsp;&nbsp;&nbsp; • Testing: test automation, manual testing<br />
@@ -32,7 +35,7 @@ My current position _(Sep 2018 - Today)_:
 <details open>
   <summary>&nbsp;Side projects</summary>
   <br />
-&nbsp;&nbsp;&nbsp; • <b>Software development</b>:  Java /  Spring /  React, I'm developing web apps for knowledge workers, for educators, for entrepreneurs.<br />
+&nbsp;&nbsp;&nbsp; • <b>Web development</b>:  Java /  Spring /  React, I'm developing web apps for knowledge workers, for educators, for entrepreneurs.<br />
 &nbsp;&nbsp;&nbsp; • <b>Infrastructure</b> using Azure / AWS / Hyper-V / Linux / Docker / Apache / Networking
 </details>
 
