@@ -18,7 +18,7 @@ My current position _(Sep 2018 - Today)_:
 <details>
   <summary>&nbsp;My current activities</summary>
   <br />
-&nbsp;&nbsp;&nbsp; • Application support: handling a business-critical app (+200 users)<br />
+&nbsp;&nbsp;&nbsp; • Application support: handling a business-critical app (+500 users)<br />
 &nbsp;&nbsp;&nbsp; • DevOps: automating the software delivery process, managing infra, ChatOps<br />
 &nbsp;&nbsp;&nbsp; • Databases: handling MySQL daily, building reporting queries<br />
 &nbsp;&nbsp;&nbsp; • Testing: test automation, manual testing<br />
